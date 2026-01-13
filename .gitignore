@@ -1,0 +1,12 @@
+# Ignore build files
+*.hex
+*.bin
+*.o
+/Debug/
+/Release/
+
+# Altium/Proteus temp files
+*.Log
+*.Preview
+History/
+__Previews/
