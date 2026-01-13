@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=PWMB Pin=U3-26
+Removed Pin From Net: NetName=BI1 Pin=U3-28
+Removed Pin From Net: NetName=AI1 Pin=U3-29
+Removed Pin From Net: NetName=PWMA Pin=U3-31
+Added Pin To Net: NetName=BI1 Pin=U3-26
+Added Pin To Net: NetName=PWMB Pin=U3-28
+Added Pin To Net: NetName=PWMA Pin=U3-29
+Added Pin To Net: NetName=AI1 Pin=U3-31

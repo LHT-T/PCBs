@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [DieuKhien.PrjPcb]
+   Generated File[DieuKhien_PCB-RoundHoles.TXT]
+   Generated File[DieuKhien_PCB-SlotHoles.TXT]
+   Generated File[DieuKhien_PCB.DRL]
+   Generated File[DieuKhien_PCB.LDP]
+   Generated File[DieuKhien_PCB.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 12:58:06 PM On 11/1/2025

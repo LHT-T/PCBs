@@ -1,0 +1,202 @@
+Added Component: Designator=H1(Header 7P DC 2.54)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 7P XH2.54-7P Ð?c Cong"; VariantName = "[No Variations]"
+Added Component: Designator=J1(XH2.54M-10)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001286"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 10P XH2.54-10P Ð?c Th?ng"; VariantName = "[No Variations]"
+Added Component: Designator=KF1(Con 2 KF301 5.08)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000987"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 2 KF301-2P 5.08MM Xanh Dýõng"; VariantName = "[No Variations]"
+Added Component: Designator=KF2(Con 2 KF301 5.08)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000987"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 2 KF301-2P 5.08MM Xanh Dýõng"; VariantName = "[No Variations]"
+Added Component: Designator=KF3(Con 2 KF301 5.08)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000987"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 2 KF301-2P 5.08MM Xanh Dýõng"; VariantName = "[No Variations]"
+Added Component: Designator=KF4(Con 2 KF301 5.08)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000987"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 2 KF301-2P 5.08MM Xanh Dýõng"; VariantName = "[No Variations]"
+Added Component: Designator=KF5(Con 2 KF301 5.08)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000987"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 2 KF301-2P 5.08MM Xanh Dýõng"; VariantName = "[No Variations]"
+Added Component: Designator=KF6(Con 2 KF301 5.08)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000987"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 2 KF301-2P 5.08MM Xanh Dýõng"; VariantName = "[No Variations]"
+Added Component: Designator=Pin(XH2.54M-2)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001283"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 2P XH2.54-2P Ð?c Th?ng"; VariantName = "[No Variations]"
+Added Component: Designator=S1(SW_RF1-1A-DC-2-R-1)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RF1-1A-DC-2-R-1/Switch+Components/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Switch Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RF1-1A-DC-2-R-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RF1-1A-DC-2-R-1/Switch+Components/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U1(XL4015)
+Added Component: Designator=U2(MP1584)
+Added Component: Designator=U3(MODULE_ESP32-DEVKITC)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ESP32-DEVKITC/Espressif+Systems/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-DEVKITC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32-DEVKITC/Espressif+Systems/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U4(MODULE_ROB-14450)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ROB-14450/SparkFun%20Electronics/view-part/2656367/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "SparkFun Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ROB-14450"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ROB-14450/SparkFun%20Electronics/view-part/2656367/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3 Pin=H1-4
+Added Pin To Net: NetName=+3.3 Pin=KF1-1
+Added Pin To Net: NetName=+3.3 Pin=KF4-1
+Added Pin To Net: NetName=+3.3 Pin=U3-1
+Added Net: Name=+3.3
+Added Pin To Net: NetName=+5 Pin=H1-2
+Added Pin To Net: NetName=+5 Pin=J1-1
+Added Pin To Net: NetName=+5 Pin=U2-+VOUT
+Added Pin To Net: NetName=+5 Pin=U2-+VOUT
+Added Pin To Net: NetName=+5 Pin=U3-19
+Added Pin To Net: NetName=+5 Pin=U4-2
+Added Pin To Net: NetName=+5 Pin=U4-13
+Added Net: Name=+5
+Added Pin To Net: NetName=+12 Pin=U1-Vout
+Added Pin To Net: NetName=+12 Pin=U4-1
+Added Net: Name=+12
+Added Pin To Net: NetName=+16.8 Pin=Pin-2
+Added Pin To Net: NetName=+16.8 Pin=S1-2
+Added Net: Name=+16.8
+Added Pin To Net: NetName=A01 Pin=KF6-1
+Added Pin To Net: NetName=A01 Pin=U4-4
+Added Net: Name=A01
+Added Pin To Net: NetName=A02 Pin=KF6-2
+Added Pin To Net: NetName=A02 Pin=U4-5
+Added Net: Name=A02
+Added Pin To Net: NetName=AI1 Pin=U3-31
+Added Pin To Net: NetName=AI1 Pin=U4-14
+Added Net: Name=AI1
+Added Pin To Net: NetName=AI2 Pin=U3-30
+Added Pin To Net: NetName=AI2 Pin=U4-15
+Added Net: Name=AI2
+Added Pin To Net: NetName=B01 Pin=KF3-1
+Added Pin To Net: NetName=B01 Pin=U4-7
+Added Net: Name=B01
+Added Pin To Net: NetName=B02 Pin=KF3-2
+Added Pin To Net: NetName=B02 Pin=U4-6
+Added Net: Name=B02
+Added Pin To Net: NetName=BI1 Pin=U3-28
+Added Pin To Net: NetName=BI1 Pin=U4-12
+Added Net: Name=BI1
+Added Pin To Net: NetName=BI2 Pin=U3-27
+Added Pin To Net: NetName=BI2 Pin=U4-11
+Added Net: Name=BI2
+Added Pin To Net: NetName=EA1 Pin=KF5-1
+Added Pin To Net: NetName=EA1 Pin=U3-5
+Added Net: Name=EA1
+Added Pin To Net: NetName=EA2 Pin=KF5-2
+Added Pin To Net: NetName=EA2 Pin=U3-6
+Added Net: Name=EA2
+Added Pin To Net: NetName=EB1 Pin=KF2-1
+Added Pin To Net: NetName=EB1 Pin=U3-26
+Added Net: Name=EB1
+Added Pin To Net: NetName=EB2 Pin=KF2-2
+Added Pin To Net: NetName=EB2 Pin=U3-29
+Added Net: Name=EB2
+Added Pin To Net: NetName=GND Pin=H1-3
+Added Pin To Net: NetName=GND Pin=H1-5
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=KF1-2
+Added Pin To Net: NetName=GND Pin=KF4-2
+Added Pin To Net: NetName=GND Pin=Pin-1
+Added Pin To Net: NetName=GND Pin=U1-GND
+Added Pin To Net: NetName=GND Pin=U1-GND
+Added Pin To Net: NetName=GND Pin=U2--VIN
+Added Pin To Net: NetName=GND Pin=U2--VIN
+Added Pin To Net: NetName=GND Pin=U2--VOUT
+Added Pin To Net: NetName=GND Pin=U2--VOUT
+Added Pin To Net: NetName=GND Pin=U3-38
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U4-8
+Added Pin To Net: NetName=GND Pin=U4-9
+Added Net: Name=GND
+Added Pin To Net: NetName=NetS1_1 Pin=S1-1
+Added Pin To Net: NetName=NetS1_1 Pin=U1-Vin
+Added Pin To Net: NetName=NetS1_1 Pin=U2-+VIN
+Added Pin To Net: NetName=NetS1_1 Pin=U2-+VIN
+Added Net: Name=NetS1_1
+Added Pin To Net: NetName=PWMA Pin=U3-25
+Added Pin To Net: NetName=PWMA Pin=U4-16
+Added Net: Name=PWMA
+Added Pin To Net: NetName=PWMB Pin=U3-24
+Added Pin To Net: NetName=PWMB Pin=U4-10
+Added Net: Name=PWMB
+Added Pin To Net: NetName=S1 Pin=J1-3
+Added Pin To Net: NetName=S1 Pin=U3-7
+Added Net: Name=S1
+Added Pin To Net: NetName=S2 Pin=J1-4
+Added Pin To Net: NetName=S2 Pin=U3-8
+Added Net: Name=S2
+Added Pin To Net: NetName=S3 Pin=J1-5
+Added Pin To Net: NetName=S3 Pin=U3-9
+Added Net: Name=S3
+Added Pin To Net: NetName=S4 Pin=J1-6
+Added Pin To Net: NetName=S4 Pin=U3-10
+Added Net: Name=S4
+Added Pin To Net: NetName=S5 Pin=J1-7
+Added Pin To Net: NetName=S5 Pin=U3-11
+Added Net: Name=S5
+Added Pin To Net: NetName=S6 Pin=J1-8
+Added Pin To Net: NetName=S6 Pin=U3-12
+Added Net: Name=S6
+Added Pin To Net: NetName=S7 Pin=J1-9
+Added Pin To Net: NetName=S7 Pin=U3-13
+Added Net: Name=S7
+Added Pin To Net: NetName=SCL Pin=H1-6
+Added Pin To Net: NetName=SCL Pin=U3-36
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=H1-7
+Added Pin To Net: NetName=SDA Pin=U3-33
+Added Net: Name=SDA
+Added Pin To Net: NetName=Servo Pin=H1-1
+Added Pin To Net: NetName=Servo Pin=U3-37
+Added Net: Name=Servo
+Added Class: Name=DieuKhien_schematic

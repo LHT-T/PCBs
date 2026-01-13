@@ -1,0 +1,7 @@
+Added Component: Designator=B1(ButtonModule)
+Added Pin To Net: NetName=GND Pin=B1-GND
+Added Pin To Net: NetName=+5 Pin=B1-Vcc
+Added Pin To Net: NetName=Start Pin=B1-OUT
+Added Pin To Net: NetName=Start Pin=U3-23
+Added Net: Name=Start
+Added Member To Class: ClassName=DieuKhien_schematic Member=Component B1 Button

@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=J1 Old Footprint=XH2.54M-10 New Footprint=TE_440052-9
+Change Component Comment : Designator=J1 Old Comment=Header 10P 2.54 Duc Thang New Comment=440052-9
+Change component parameters: Designator = "J1" ("J1"); Footprint = "XH2.54M-10"; UniqueID = "\FWWRAVDM" ("\FWWRAVDM")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "440052-9"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

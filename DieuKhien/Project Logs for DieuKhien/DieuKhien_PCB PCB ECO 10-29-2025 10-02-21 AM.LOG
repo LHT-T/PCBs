@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=+16.8 Pin=S2-2
+Change Component Description : Designator=S1 Old Description=Switch, Mini Rocker, 2P SPST OFF-ON, Red w/ Print, VDC New Description=Switch, Mini Rocker, 2P SPST OFF-ON, Red w/ Print, VDC | Switch Components RF1-1A-DC-2-R-1
+Change Component Description : Designator=S2 Old Description=Switch, Mini Rocker, 2P SPST OFF-ON, Red w/ Print, VDC New Description=Switch, Mini Rocker, 2P SPST OFF-ON, Red w/ Print, VDC | Switch Components RF1-1A-DC-2-R-1
+Added Pin To Net: NetName=+16.8 Pin=S2-1
+Added Pin To Net: NetName=NetS2_2 Pin=S2-2
+Added Pin To Net: NetName=NetS2_2 Pin=U2-+VIN
+Added Pin To Net: NetName=NetS2_2 Pin=U2-+VIN
+Added Net: Name=NetS2_2

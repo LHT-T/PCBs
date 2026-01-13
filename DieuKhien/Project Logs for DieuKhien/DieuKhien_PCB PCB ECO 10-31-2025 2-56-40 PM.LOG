@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=B1-GND
+Removed Pin From Net: NetName=Start Pin=B1-OUT
+Removed Pin From Net: NetName=+5 Pin=B1-Vcc
+Removed Member From Class: ClassName=DieuKhien_schematic Member=B1
+Change Component Description : Designator=S1 Old Description=Switch, Mini Rocker, 2P SPST OFF-ON, Red w/ Print, VDC New Description=Switch, Mini Rocker, 2P SPST OFF-ON, Red w/ Print, VDC | Switch Components RF1-1A-DC-2-R-1
+Change Component Description : Designator=S2 Old Description=Switch, Mini Rocker, 2P SPST OFF-ON, Red w/ Print, VDC New Description=Switch, Mini Rocker, 2P SPST OFF-ON, Red w/ Print, VDC | Switch Components RF1-1A-DC-2-R-1

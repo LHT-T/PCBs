@@ -1,0 +1,9 @@
+Change Component Description : Designator=S1 Old Description=Switch, Mini Rocker, 2P SPST OFF-ON, Red w/ Print, VDC New Description=Switch, Mini Rocker, 2P SPST OFF-ON, Red w/ Print, VDC | Switch Components RF1-1A-DC-2-R-1
+Change Component Description : Designator=S2 Old Description=Switch, Mini Rocker, 2P SPST OFF-ON, Red w/ Print, VDC New Description=Switch, Mini Rocker, 2P SPST OFF-ON, Red w/ Print, VDC | Switch Components RF1-1A-DC-2-R-1
+Added Component: Designator=B1(ButtonModule)
+Added Pin To Net: NetName=GND Pin=B1-GND
+Added Pin To Net: NetName=+5 Pin=B1-Vcc
+Added Pin To Net: NetName=Start Pin=B1-OUT
+Added Pin To Net: NetName=Start Pin=U3-23
+Added Net: Name=Start
+Added Member To Class: ClassName=DieuKhien_schematic Member=Component B1 Button
